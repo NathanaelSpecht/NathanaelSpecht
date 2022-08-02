@@ -1,8 +1,7 @@
-Hi, I’m @NathanaelSpecht. I’m interested in games, art, cooking, and gardening. I'm currently learning how to run a game studio.
+Hi, I’m @NathanaelSpecht. I’m interested in games, art, cooking, and gardening. I'm currently learning how to make a game engine.
 
-Feel free to contact me in these spaces:
-- treesinspacecompany@gmail.com
-- https://twitter.com/Trees_In_Space
+Feel free to contact me here:
+- [Twitter](https://twitter.com/Trees_In_Space)
 
 <!---
 NathanaelSpecht/NathanaelSpecht is a ✨ special ✨ repository because its `README.md` (this file) 
