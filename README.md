@@ -1,7 +1,6 @@
-Hi, I’m @NathanaelSpecht. I’m interested in games, art, cooking, and gardening. I'm currently learning how to make a game engine.
+Hi, I’m @NathanaelSpecht, founder of Trees in Space. We're an indie game studio based in Irmo, SC.
 
-Feel free to contact me here:
-- [Twitter](https://twitter.com/Trees_In_Space)
+To recieve updates on all things Trees in Space, follow us on [Twitter](https://twitter.com/Trees_In_Space) or subscribe to our [YouTube channel](https://www.youtube.com/channel/UCoQpBkhCGZPyzEnDpthWpfQ). Every little bit helps!
 
 <!---
 NathanaelSpecht/NathanaelSpecht is a ✨ special ✨ repository because its `README.md` (this file) 
